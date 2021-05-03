@@ -1,0 +1,1 @@
+Just Run VS solution file codebook will be formed and the label corresponding to each record will also stored in file.
